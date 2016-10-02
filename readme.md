@@ -29,4 +29,3 @@ Statisticians use variance to see how individual numbers relate to each other wi
 
 Here is your [starter code](./code/starter-code/w1-4.3-starter.ipynb).
 
-> [Solution Code](./code/solution-code/w1-4.3-solution.ipynb)
